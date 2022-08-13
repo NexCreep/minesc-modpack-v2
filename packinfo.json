@@ -1,6 +1,9 @@
 {
 	"version": "2.22.08.11.e",
 	"uploadedAt": "Jueves 11/08/2022 22:15",
+	"setConfig": [
+		"CustomMainMenu/mainmenu.json"
+	]
 	"newMods": [
 		"OptiFine_1.12.2_HD_U_G5.jar",
 		"DrZharks-MoCreatures+Mod-12.0.5.jar"
