@@ -2,7 +2,8 @@
 	"version": "2.22.08.13.b",
 	"uploadedAt": "Jueves 13/08/2022 20:18",
 	"setConfig": [
-		"CustomMainMenu/mainmenu.json"
+		"CustomMainMenu/mainmenu.json",
+		"biomesoplenty/misc.cfg"
 	],
 	"newMods": [
 		"ResourceLoader-MC1.12.1-1.5.3.jar"
