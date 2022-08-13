@@ -1,0 +1,190 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "custommainmenu:textures/gui/minestarcraft.png",
+            "posX" : -200,
+            "posY" : 30,
+            "width" : 400,
+            "height" : 100,
+            "alignment" : "top_center"
+        },
+        
+        "edition":
+        {
+            "image" : "custommainmenu:textures/gui/transparent.png",
+            "posX" : -49,
+            "posY" : 67,
+            "width" : 128,
+            "height" : 16,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {	
+	
+		"connect":
+		{
+            "text" : "Entrar a MineStartCraft",
+            "posX" : -100,
+            "posY" : 24,
+            "width" : 200,
+            "height" : 25,
+			"texture" : "custommainmenu:textures/gui/buttons/green-btn.png",
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "vps-2379a8cf.vps.ovh.net:25565"
+            }
+        },
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 25,
+			"texture" : "custommainmenu:textures/gui/buttons/blue-btn.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 25,
+			"texture" : "custommainmenu:textures/gui/buttons/blue-btn.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 25,
+			"texture" : "custommainmenu:textures/gui/buttons/blue-btn.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 200,
+            "height" : 25,
+			"texture" : "custommainmenu:textures/gui/buttons/yellow-btn.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -100,
+            "posY" : 156,
+            "width" : 200,
+            "height" : 25,
+			"texture" : "custommainmenu:textures/gui/buttons/red-btn.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -124,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+        
+        
+    },
+    
+    "labels":
+    {	
+		"createdBy":
+        {
+            "text" : "Created By NexCreep for §cSilvaniax §bNetwork",
+            "hoverText" : "§nCreated By NexCreep for §c§nSilvaniax §b§nNetwork",
+            "posX" : -110,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_center",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.nexcreep.es"
+            }
+        },
+        "mojang":
+        {
+            "text" : "MineStartCraft (c) §cSilvaniax §bNetwork",
+            "hoverText" : "§nMineStartCraft (c) §c§nSilvaniax §b§nNetwork",
+            "posX" : -197,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/V47CGMCYWu"
+            }
+        },
+        
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : [""]
+        },
+        
+        "background":
+		{
+			"image" : "custommainmenu:textures/gui/back/redworld.png"
+		}
+    }
+}
