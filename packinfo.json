@@ -1,15 +1,12 @@
 {
-	"version": "2.22.08.13.a",
-	"uploadedAt": "Jueves 11/08/2022 22:15",
+	"version": "2.22.08.13.b",
+	"uploadedAt": "Jueves 13/08/2022 20:18",
 	"setConfig": [
 		"CustomMainMenu/mainmenu.json"
 	],
 	"newMods": [
-		"DrZharks-MoCreatures-Mod-12.0.5.jar"
+		"ResourceLoader-MC1.12.1-1.5.3.jar"
 		
 	],
-	"removedMods": [
-		"Hwyla-1.8.26-B41_1.12.2.jar",
-		"DrZharks-MoCreatures+Mod-12.0.5.jar"
-	]
+	"removedMods": [],
 }
