@@ -1,13 +1,14 @@
 {
-	"version": "2.22.08.13.b",
-	"uploadedAt": "Jueves 13/08/2022 20:18",
+	"version": "2.22.08.14.a",
+	"uploadedAt": "14/08/2022 16:48",
 	"setConfig": [
-		"CustomMainMenu/mainmenu.json",
-		"biomesoplenty/misc.cfg"
+		"CustomMainMenu/mainmenu.json"
 	],
 	"newMods": [
-		"ResourceLoader-MC1.12.1-1.5.3.jar"
+		"hempfarmer-0.0.1.jar"
 		
 	],
-	"removedMods": [],
+	"removedMods": [
+		"BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+	],
 }
