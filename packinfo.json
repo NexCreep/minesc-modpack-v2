@@ -1,14 +1,14 @@
 {
-	"version": "2.22.08.14.a",
-	"uploadedAt": "14/08/2022 16:48",
+	"version": "2.22.08.16.a",
+	"uploadedAt": "16/08/2022 02:39",
 	"setConfig": [
 		"CustomMainMenu/mainmenu.json"
 	],
 	"newMods": [
-		"hempfarmer-0.0.1.jar"
+		"ViciusMod-1.12.2-1.0.0.jar"
 		
 	],
 	"removedMods": [
-		"BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar"
+		"hempfarmer-0.0.1.jar"
 	],
 }
