@@ -1,6 +1,6 @@
 {
-	"version": "2.22.08.16.a",
-	"uploadedAt": "16/08/2022 02:39",
+	"version": "2.22.08.17.a",
+	"uploadedAt": "16/08/2022 13:55",
 	"setConfig": [
 		"CustomMainMenu/mainmenu.json"
 	],
@@ -9,6 +9,6 @@
 		
 	],
 	"removedMods": [
-		"hempfarmer-0.0.1.jar"
+		"MoBends_1.12.2-1.2.1-19.12.21.jar"
 	],
 }
