@@ -1,12 +1,13 @@
 {
-	"version": "2.22.08.22.a",
-	"uploadedAt": "22/08/2022 02:52",
+	"version": "2.22.08.22.b",
+	"uploadedAt": "22/08/2022 19:37",
 	"setConfig": [
 		"CustomMainMenu/mainmenu.json"
 	],
 	"newMods": [
 		"unloader-1.2.0.jar",
-		"NoMoreRecipeConflict-0.13(1.12.2).jar"
+		"NoMoreRecipeConflict-0.13(1.12.2).jar",
+		"OfflineSkins-1.12.2-v6.jar"
 		
 	],
 	"removedMods": [],
