@@ -1,13 +1,13 @@
 {
-	"version": "2.22.08.22.b",
-	"uploadedAt": "22/08/2022 19:37",
+	"version": "2.22.08.27.b",
+	"uploadedAt": "27/08/2022 16:36",
 	"setConfig": [
 		"CustomMainMenu/mainmenu.json"
 	],
 	"newMods": [
-		"unloader-1.2.0.jar",
-		"NoMoreRecipeConflict-0.13(1.12.2).jar",
-		"OfflineSkins-1.12.2-v6.jar"
+		"furniture-6.3.2-1.12.2.jar",
+		"Aquaculture-1.12.2-1.6.8.jar",
+		"Vampirism-1.12.2-1.6.2.jar"
 		
 	],
 	"removedMods": [],
