@@ -184,7 +184,16 @@
         
         "background":
 		{
-			"image" : "custommainmenu:textures/gui/back/redworld.png"
+			"image" : "",
+			"slideshow": {
+				"images": [
+					"custommainmenu:textures/gui/back/redworld.png",
+					"custommainmenu:textures/gui/back/spancerun.png",
+					"custommainmenu:textures/gui/back/untitle.png"
+				],
+				"displayDuration": 100,
+				"fadeDuration": 40
+			}
 		}
     }
 }

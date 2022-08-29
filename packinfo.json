@@ -1,14 +1,18 @@
 {
-	"version": "2.22.08.27.b",
-	"uploadedAt": "27/08/2022 16:36",
+	"version": "2.22.08.29.a",
+	"uploadedAt": "29/08/2022 14:15",
 	"setConfig": [
 		"CustomMainMenu/mainmenu.json"
 	],
 	"newMods": [
 		"furniture-6.3.2-1.12.2.jar",
 		"Aquaculture-1.12.2-1.6.8.jar",
-		"Vampirism-1.12.2-1.6.2.jar"
+		"TravelersBackpack-1.12.2-1.0.35.jar",
+		"extrautils2-1.12-1.9.9.jar"
 		
 	],
-	"removedMods": [],
+	"removedMods": [
+		"Vampirism-1.12.2-1.6.2.jar",
+		"Cannibalism-5.6.9-1.12.2.jar"
+	],
 }
